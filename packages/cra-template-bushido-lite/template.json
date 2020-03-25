@@ -5,12 +5,11 @@
     "@testing-library/user-event": "^7.1.2"
   },
   "dependencies": {
-    "bushido-strap": "^1.0.1",
-    "node-sass": "^4.13.0",
+    "bushido-strap": "^2.2.4",
     "react-router": "^5.1.2",
     "react-router-dom": "^5.1.2",
     "serve": "^11.2.0",
-    "styled-components": "^4.4.0"
+    "webfontloader": "^1.6.28"
   },
   "scripts": {
     "serve": "serve -s build",

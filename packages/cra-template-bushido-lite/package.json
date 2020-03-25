@@ -1,11 +1,22 @@
 {
   "name": "cra-template-bushido-lite",
-  "version": "1.0.2",
+  "version": "1.1.6",
   "description": "The bushido template without redux and axios",
   "main": "template.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jimmy McBride",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "git+https://github.com/JimmyMcBride/cra-template-bushido-lite.git",
+  "keywords": [
+    "bushido-strap",
+    "node-sass",
+    "styled-components",
+    "react-router"
+  ],
+  "bugs": {
+    "url": "https://github.com/JimmyMcBride/cra-template-bushido-lite/issues"
+  },
+  "homepage": "https://github.com/JimmyMcBride/cra-template-bushido-lite#readme"
 }
